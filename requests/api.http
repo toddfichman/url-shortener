@@ -1,0 +1,6 @@
+GET http://localhost:6000/0E8xECMtT
+Content-Type: application/json
+
+# {
+#   "longUrl": "https://www.amazon.com/dp/B07MMZ2LTB/ref=ods_gw_ha_vicc_blnk_xt2_dcard_announce?pf_rd_p=69ec2182-3cb5-423b-93b5-11754447d7d7&pf_rd_r=DR94P9B62H9H613D1FXT"
+# }
